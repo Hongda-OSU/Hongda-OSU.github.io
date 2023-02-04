@@ -3688,7 +3688,7 @@ h1.page-title + .tag-cloud-list {
 #nav #blog-info .site-icon {
   margin-right: 6px;
   height: 36px;
-  vertical-align: middle;
+  vertical-align: top;
 }
 #nav #toggle-menu {
   display: none;
