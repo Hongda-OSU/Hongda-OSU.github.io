@@ -1,49 +1,60 @@
 /* 鼠标样式 */
 a, i, img {
   cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame1.png), auto;
-  -webkit-animation: hello 600ms infinite;
-  animation: hello 600ms infinite;
+  -webkit-animation: hover 600ms infinite;
+  animation: hover 600ms infinite;
 }
 
 body {
-  cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame1.png), auto;
-  -webkit-animation: cursor 600ms infinite;
-  animation: cursor 600ms infinite;
+  cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame1.png), auto;
+  -webkit-animation: cursor-normal 2400ms infinite;
+  animation: cursor-normal 2400ms infinite;
 }
 
-@-webkit-keyframes hello {
-  0% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame1.png), auto;}
-  20% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame2.png), auto;}
-  40% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame3.png), auto;}
-  60% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame4.png), auto;}
-  80% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame5.png), auto;}
-  100% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame6.png), auto;}
+@-webkit-keyframes cursor-normal {
+  0% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame1.png), auto;}
+  5% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame2.png), auto;}
+  10% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame3.png), auto;}
+  15% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame4.png), auto;}
+  20% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame5.png), auto;}
+  25% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame6.png), auto;}
+  30% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame7.png), auto;}
+  35% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame8.png), auto;}
+  40% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame9.png), auto;}
+  45% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame10.png), auto;}
+  50% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame11.png), auto;}
+  55% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame12.png), auto;}
+  60% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame13.png), auto;}
+  65% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame14.png), auto;}
+  70% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame15.png), auto;}
+  75% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame16.png), auto;}
+  80% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame17.png), auto;}
+  85% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame18.png), auto;}
+  90% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame19.png), auto;}
+  95% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame20.png), auto;}
+  100% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame1.png), auto;}
 } 
 
-@keyframes hello {
-  0% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame1.png), auto;}
-  20% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame2.png), auto;}
-  40% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame3.png), auto;}
-  60% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame4.png), auto;}
-  80% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame5.png), auto;}
-  100% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame6.png), auto;}
-}
-
-
-@-webkit-keyframes cursor {
-  0% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame1.png), auto;}
-  20% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame2.png), auto;}
-  40% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame3.png), auto;}
-  60% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame4.png), auto;}
-  80% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame5.png), auto;}
-  100% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame6.png), auto;}
-} 
-
-@keyframes cursor {
-  0% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame1.png), auto;}
-  20% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame2.png), auto;}
-  40% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame3.png), auto;}
-  60% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame4.png), auto;}
-  80% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame5.png), auto;}
-  100% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame6.png), auto;}
+@keyframes cursor-normal {
+  0% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame1.png), auto;}
+  5% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame2.png), auto;}
+  10% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame3.png), auto;}
+  15% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame4.png), auto;}
+  20% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame5.png), auto;}
+  25% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame6.png), auto;}
+  30% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame7.png), auto;}
+  35% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame8.png), auto;}
+  40% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame9.png), auto;}
+  45% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame10.png), auto;}
+  50% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame11.png), auto;}
+  55% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame12.png), auto;}
+  60% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame13.png), auto;}
+  65% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame14.png), auto;}
+  70% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame15.png), auto;}
+  75% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame16.png), auto;}
+  80% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame17.png), auto;}
+  85% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame18.png), auto;}
+  90% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame19.png), auto;}
+  95% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame20.png), auto;}
+  100% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame1.png), auto;}
 }
