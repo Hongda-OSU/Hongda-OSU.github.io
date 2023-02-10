@@ -1,0 +1,49 @@
+/* 鼠标样式 */
+a, i, img {
+  cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame1.png), auto;
+  -webkit-animation: hello 600ms infinite;
+  animation: hello 600ms infinite;
+}
+
+body {
+  cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame1.png), auto;
+  -webkit-animation: cursor 600ms infinite;
+  animation: cursor 600ms infinite;
+}
+
+@-webkit-keyframes hello {
+  0% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame1.png), auto;}
+  20% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame2.png), auto;}
+  40% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame3.png), auto;}
+  60% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame4.png), auto;}
+  80% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame5.png), auto;}
+  100% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame6.png), auto;}
+} 
+
+@keyframes hello {
+  0% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame1.png), auto;}
+  20% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame2.png), auto;}
+  40% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame3.png), auto;}
+  60% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame4.png), auto;}
+  80% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame5.png), auto;}
+  100% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame6.png), auto;}
+}
+
+
+@-webkit-keyframes cursor {
+  0% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame1.png), auto;}
+  20% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame2.png), auto;}
+  40% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame3.png), auto;}
+  60% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame4.png), auto;}
+  80% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame5.png), auto;}
+  100% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame6.png), auto;}
+} 
+
+@keyframes cursor {
+  0% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame1.png), auto;}
+  20% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame2.png), auto;}
+  40% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame3.png), auto;}
+  60% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame4.png), auto;}
+  80% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame5.png), auto;}
+  100% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame6.png), auto;}
+}
