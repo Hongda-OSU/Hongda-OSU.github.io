@@ -1,17 +1,23 @@
 /* 鼠标样式 */
 a, i, img {
-  cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/img/frame1.png), auto;
-  -webkit-animation: hover 600ms infinite;
-  animation: hover 600ms infinite;
+  cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃select1.png), auto;
+  -webkit-animation: cursor-link 1200ms infinite;
+  animation: cursor-link 1200ms infinite;
 }
 
 body {
   cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame1.png), auto;
-  -webkit-animation: cursor-normal 2400ms infinite;
-  animation: cursor-normal 2400ms infinite;
+  -webkit-animation: cursor-body 2400ms infinite;
+  animation: cursor-body 2400ms infinite;
 }
 
-@-webkit-keyframes cursor-normal {
+/* #rightside > div > button {
+  cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃img1.png), auto;
+  -webkit-animation: cursor-img 1200ms infinite;
+  animation: cursor-img 1200ms infinite;
+} */
+
+@-webkit-keyframes cursor-body {
   0% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame1.png), auto;}
   5% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame2.png), auto;}
   10% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame3.png), auto;}
@@ -35,7 +41,7 @@ body {
   100% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame1.png), auto;}
 } 
 
-@keyframes cursor-normal {
+@keyframes cursor-body {
   0% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame1.png), auto;}
   5% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame2.png), auto;}
   10% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame3.png), auto;}
@@ -58,3 +64,50 @@ body {
   95% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame20.png), auto;}
   100% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃frame1.png), auto;}
 }
+
+
+@-webkit-keyframes cursor-link {
+  0% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃select1.png), auto;}
+  14% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃select2.png), auto;}
+  28% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃select3.png), auto;}
+  42% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃select4.png), auto;}
+  56% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃select5.png), auto;}
+  70% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃select6.png), auto;}
+  84% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃select7.png), auto;}
+  100% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃select8.png), auto;}
+}
+
+
+@keyframes cursor-link {
+  0% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃select1.png), auto;}
+  14% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃select2.png), auto;}
+  28% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃select3.png), auto;}
+  42% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃select4.png), auto;}
+  56% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃select5.png), auto;}
+  70% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃select6.png), auto;}
+  84% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃select7.png), auto;}
+  100% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃select8.png), auto;}
+}
+
+/* 
+@-webkit-keyframes cursor-img {
+  0% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃img1.png), auto;}
+  14% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃img2.png), auto;}
+  28% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃img3.png), auto;}
+  42% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃img4.png), auto;}
+  56% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃img5.png), auto;}
+  70% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃img6.png), auto;}
+  84% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃img7.png), auto;}
+  100% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃img8.png), auto;}
+}
+
+@keyframes cursor-img {
+  0% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃img1.png), auto;}
+  14% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃img2.png), auto;}
+  28% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃img3.png), auto;}
+  42% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃img4.png), auto;}
+  56% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃img5.png), auto;}
+  70% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃img6.png), auto;}
+  84% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃img7.png), auto;}
+  100% {cursor: url(https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/胡桃img8.png), auto;}
+} */
