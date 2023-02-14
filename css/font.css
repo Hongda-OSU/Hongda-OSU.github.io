@@ -1,0 +1,20 @@
+@font-face {
+    font-family:'标小智无界黑';
+    src:url('https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/标小智无界黑.ttf'); 
+    font-display:swap
+}
+@font-face {
+    font-family:'萌神手写体';
+    src:url('https://cdn.jsdelivr.net/gh/Hongda-OSU/PicGo/image/Mengshen-Handwritten.ttf'); 
+    font-display:swap
+}
+
+h1#site-title {
+    font-family:萌神手写体!important;
+    font-size: 3.8em!important
+}
+span#subtitle {
+    font-family:标小智无界黑!important;
+    font-size: 1.2em!important
+}
+
