@@ -1,0 +1,1 @@
+"use strict";function randomSelection(e){return Array.isArray(e)?e[Math.floor(Math.random()*e.length)]:e}Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=void 0;var _default=randomSelection;exports.default=_default;
