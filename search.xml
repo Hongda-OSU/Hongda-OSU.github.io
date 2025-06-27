@@ -80,31 +80,6 @@
     
     
     <entry>
-      <title>System Design 101</title>
-      <link href="/posts/733301f0.html"/>
-      <url>/posts/733301f0.html</url>
-      
-        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密码错误" data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="15e82533bcb1293ce756ee9fbcc59de43332ea84af97385de66d9d2187f15914">03c03690e5a2c7a44b2aa66e251c66b95173940c42de79c65734cf256d748a1f3392aea18f5ba83a6ce29c7e1144d90c760cb672ac36819a3e414f16924b3610a129f4732b5b01d6a33086e7ec72383eec2d6c734fee1bd49b773e9dadb57d7103ffc8c872c93bfddda3671e1478d25af326387f2008078db54c42a5501acd5a88b40d06637002c29490e6eca76633cc7d9b1a85d00f9656c8af1ca351c236f451caeb05ff7c8f920c7e6c94d7ac82f57f55764ee39687bd81232ce46b396a6841b9dada990a9709e8d90afcb07cc5a1e3493665540714003cad9c3f0e28a22a</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-xray">      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">密码</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      
-      
-      <categories>
-          
-          <category> 练习 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> System Design </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Security 101</title>
       <link href="/posts/e7e09e2.html"/>
       <url>/posts/e7e09e2.html</url>
@@ -122,6 +97,31 @@
         <tags>
             
             <tag> Security </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>System Design 101</title>
+      <link href="/posts/733301f0.html"/>
+      <url>/posts/733301f0.html</url>
+      
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密码错误" data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="15e82533bcb1293ce756ee9fbcc59de43332ea84af97385de66d9d2187f15914">03c03690e5a2c7a44b2aa66e251c66b95173940c42de79c65734cf256d748a1f3392aea18f5ba83a6ce29c7e1144d90c760cb672ac36819a3e414f16924b3610a129f4732b5b01d6a33086e7ec72383eec2d6c734fee1bd49b773e9dadb57d7103ffc8c872c93bfddda3671e1478d25af326387f2008078db54c42a5501acd5a88b40d06637002c29490e6eca76633cc7d9b1a85d00f9656c8af1ca351c236f451caeb05ff7c8f920c7e6c94d7ac82f57f55764ee39687bd81232ce46b396a6841b9dada990a9709e8d90afcb07cc5a1e3493665540714003cad9c3f0e28a22a</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-xray">      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">密码</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      
+      
+      <categories>
+          
+          <category> 练习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> System Design </tag>
             
         </tags>
       
@@ -184,7 +184,7 @@
       <link href="/posts/bb3fbb6d.html"/>
       <url>/posts/bb3fbb6d.html</url>
       
-        <content type="html"><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><blockquote><p>官网: <a href="https://developer.hashicorp.com/terraform">https://developer.hashicorp.com/terraform</a><br>Terraform Registry: <a href="https://registry.terraform.io/namespaces/hashicorp">https://registry.terraform.io/namespaces/hashicorp</a></p></blockquote><hr><h3 id="知识点"><a href="#知识点" class="headerlink" title="知识点"></a>知识点</h3>]]></content>
+        <content type="html"><![CDATA[<p><img src="https://raw.githubusercontent.com/Hongda-Lin/ImageStore/master/imgrj2v0kxiwnf99hfja1ood1dwupdaex6.png"></p><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><blockquote><p>官网: <a href="https://developer.hashicorp.com/terraform">https://developer.hashicorp.com/terraform</a><br>Terraform Registry: <a href="https://registry.terraform.io/namespaces/hashicorp">https://registry.terraform.io/namespaces/hashicorp</a></p></blockquote><hr><h3 id="知识点"><a href="#知识点" class="headerlink" title="知识点"></a>知识点</h3><h4 id="What-is-Terraform"><a href="#What-is-Terraform" class="headerlink" title="What is Terraform"></a>What is Terraform</h4><ul><li><p>Terraform 是一个开源的“基础设施即代码（IaC）”工具，由 HashiCorp 开发。它允许你使用一种声明式语言（HCL，HashiCorp Configuration Language）来定义和管理云资源，比如服务器、数据库、网络、防火墙等</p><ul><li>Terraform 可以管理多个云平台上的基础设施</li><li>基础设施像写代码一样管理</li><li>Terraform 的状态允许您在整个部署过程中跟踪资源变化</li><li>代码审计 + 版本控制（配合 Git）</li></ul></li><li><p>为什么使用 Terraform</p><ul><li>传统部署方式手动点点点 ➜ 易出错、不可重复</li></ul></li><li><p>一些 Terraform 的 Alternatives</p><ul><li>AWS CloudFormation, Azure Resource Manager, GCP Deployment Manager, Pulumi</li></ul></li></ul><hr><h4 id="What-is-Infrastructure-as-Code"><a href="#What-is-Infrastructure-as-Code" class="headerlink" title="What is Infrastructure as Code"></a>What is Infrastructure as Code</h4><ul><li><p><a href="https://www.hashicorp.com/en/blog/infrastructure-as-code-in-a-private-or-public-cloud">Infrastructure as Code</a> 是一种用代码管理和部署基础设施（如服务器、网络、数据库等）的方式。它就像 DevOps 的“建筑图纸”，让你用脚本来创建和管理 IT 环境，而不是手动点击界面操作。</p></li><li><p>IaC 的核心价值</p><ul><li>协作平台: 作为团队协作的中心，让开发、运维等多角色共同构建和管理基础设施</li><li>快速扩展: 用代码快速复制和扩容资源，实现自动化部署</li><li>标准化部署: 所有环境都用相同模板，减少人为错误、提高一致性</li></ul></li></ul><blockquote><p>假设你需要在 AWS 上建一个 S3 桶，传统做法是登录控制台点点点<br>而用 Terraform，你可以写一个文件</p></blockquote><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">resource &quot;aws_s3_bucket&quot; &quot;my_bucket&quot; &#123;</span><br><span class="line">  bucket = &quot;hongda-demo-bucket&quot;</span><br><span class="line">  acl    = &quot;private&quot;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><hr><h4 id="Benefits-of-IaC"><a href="#Benefits-of-IaC" class="headerlink" title="Benefits of IaC"></a>Benefits of IaC</h4>]]></content>
       
       
       <categories>
@@ -641,7 +641,7 @@
     
     
     <entry>
-      <title>Leetcode</title>
+      <title>Coding</title>
       <link href="/posts/3458e8f8.html"/>
       <url>/posts/3458e8f8.html</url>
       
