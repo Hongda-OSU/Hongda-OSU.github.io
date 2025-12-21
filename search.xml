@@ -4,19 +4,13 @@
   
     
     <entry>
-      <title>Web 拦截</title>
+      <title>MCP 学习</title>
       <link href="/posts/c888933a.html"/>
       <url>/posts/c888933a.html</url>
       
-        <content type="html"><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3>]]></content>
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密码错误" data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="ad6e46696683ce3208fd5faf2c8dda446aff68510f64201d8afd5dbd363960a9">03c03690e5a2c7a44b2aa66e251c66b95173940c42de79c65734cf256d748a1f3392aea18f5ba83a6ce29c7e1144d90c760cb672ac36819a3e414f16924b3610a129f4732b5b01d6a33086e7ec72383eec2d6c734fee1bd49b773e9dadb57d713afeb5291259710bedcfe76365bc6750</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-xray">      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">密码</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       
       
-      
-        <tags>
-            
-            <tag> Web </tag>
-            
-        </tags>
       
     </entry>
     
@@ -48,7 +42,7 @@
     
     
     <entry>
-      <title>JS &amp; Python 小技巧</title>
+      <title>Three.js 学习</title>
       <link href="/posts/998b6089.html"/>
       <url>/posts/998b6089.html</url>
       
@@ -61,73 +55,43 @@
     
     
     <entry>
-      <title>GCP 实操练习</title>
+      <title>CSS 小技巧</title>
       <link href="/posts/3f28c94.html"/>
       <url>/posts/3f28c94.html</url>
       
         <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密码错误" data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="15e82533bcb1293ce756ee9fbcc59de43332ea84af97385de66d9d2187f15914">03c03690e5a2c7a44b2aa66e251c66b95173940c42de79c65734cf256d748a1f3392aea18f5ba83a6ce29c7e1144d90c760cb672ac36819a3e414f16924b3610a129f4732b5b01d6a33086e7ec72383eec2d6c734fee1bd49b773e9dadb57d7103ffc8c872c93bfddda3671e1478d25af326387f2008078db54c42a5501acd5a88b40d06637002c29490e6eca76633cc7d9b1a85d00f9656c8af1ca351c236f451caeb05ff7c8f920c7e6c94d7ac82f57f55764ee39687bd81232ce46b396a6841b9dada990a9709e8d90afcb07cc5a1e3493665540714003cad9c3f0e28a22a</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-xray">      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">密码</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       
       
-      <categories>
-          
-          <category> 练习 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> GCP </tag>
-            
-        </tags>
       
     </entry>
     
     
     
     <entry>
-      <title>System Design 101</title>
-      <link href="/posts/733301f0.html"/>
-      <url>/posts/733301f0.html</url>
-      
-        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密码错误" data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="15e82533bcb1293ce756ee9fbcc59de43332ea84af97385de66d9d2187f15914">03c03690e5a2c7a44b2aa66e251c66b95173940c42de79c65734cf256d748a1f3392aea18f5ba83a6ce29c7e1144d90c760cb672ac36819a3e414f16924b3610a129f4732b5b01d6a33086e7ec72383eec2d6c734fee1bd49b773e9dadb57d7103ffc8c872c93bfddda3671e1478d25af326387f2008078db54c42a5501acd5a88b40d06637002c29490e6eca76633cc7d9b1a85d00f9656c8af1ca351c236f451caeb05ff7c8f920c7e6c94d7ac82f57f55764ee39687bd81232ce46b396a6841b9dada990a9709e8d90afcb07cc5a1e3493665540714003cad9c3f0e28a22a</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-xray">      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">密码</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      
-      
-      <categories>
-          
-          <category> 练习 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> System Design </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Security 101</title>
+      <title>Conway&#39;s Game of Life</title>
       <link href="/posts/e7e09e2.html"/>
       <url>/posts/e7e09e2.html</url>
       
         <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密码错误" data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="15e82533bcb1293ce756ee9fbcc59de43332ea84af97385de66d9d2187f15914">03c03690e5a2c7a44b2aa66e251c66b95173940c42de79c65734cf256d748a1f3392aea18f5ba83a6ce29c7e1144d90c760cb672ac36819a3e414f16924b3610a129f4732b5b01d6a33086e7ec72383eec2d6c734fee1bd49b773e9dadb57d7103ffc8c872c93bfddda3671e1478d25af326387f2008078db54c42a5501acd5a88b40d06637002c29490e6eca76633cc7d9b1a85d00f9656c8af1ca351c236f451caeb05ff7c8f920c7e6c94d7ac82f57f55764ee39687bd81232ce46b396a6841b9dada990a9709e8d90afcb07cc5a1e3493665540714003cad9c3f0e28a22a</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-xray">      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">密码</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       
       
-      <categories>
-          
-          <category> 练习 </category>
-          
-      </categories>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>WebGL 学习笔记 II</title>
+      <link href="/posts/733301f0.html"/>
+      <url>/posts/733301f0.html</url>
+      
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密码错误" data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="15e82533bcb1293ce756ee9fbcc59de43332ea84af97385de66d9d2187f15914">03c03690e5a2c7a44b2aa66e251c66b95173940c42de79c65734cf256d748a1f3392aea18f5ba83a6ce29c7e1144d90c760cb672ac36819a3e414f16924b3610a129f4732b5b01d6a33086e7ec72383eec2d6c734fee1bd49b773e9dadb57d7103ffc8c872c93bfddda3671e1478d25af326387f2008078db54c42a5501acd5a88b40d06637002c29490e6eca76633cc7d9b1a85d00f9656c8af1ca351c236f451caeb05ff7c8f920c7e6c94d7ac82f57f55764ee39687bd81232ce46b396a6841b9dada990a9709e8d90afcb07cc5a1e3493665540714003cad9c3f0e28a22a</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-xray">      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">密码</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      
       
       
         <tags>
             
-            <tag> Security </tag>
+            <tag> WebGL </tag>
             
         </tags>
       
